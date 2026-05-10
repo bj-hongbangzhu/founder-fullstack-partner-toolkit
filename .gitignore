@@ -1,0 +1,17 @@
+# Ignore macOS files
+.DS_Store
+._*
+
+# Ignore system files
+Thumbs.db
+desktop.ini
+
+# Ignore editor files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Ignore original .trae structure
+.trae/
